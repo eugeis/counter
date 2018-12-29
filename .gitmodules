@@ -1,0 +1,3 @@
+[submodule "counter/src/main/go/src/ee/counter"]
+	path = counter/src/main/go/src/ee/counter
+	url = https://github.com/go-ee/counter

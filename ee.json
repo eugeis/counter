@@ -1,0 +1,60 @@
+{
+  "files" : {
+    "counter/counter/auth/AuthApiBase.go" : {
+      "path" : "counter/counter/auth/AuthApiBase.go",
+      "date" : 1545822477000
+    },
+    "counter/counter/auth/AuthCommandsBase.go" : {
+      "path" : "counter/counter/auth/AuthCommandsBase.go",
+      "date" : 1545822479000
+    },
+    "counter/counter/auth/AuthEventsBase.go" : {
+      "path" : "counter/counter/auth/AuthEventsBase.go",
+      "date" : 1545822479000
+    },
+    "counter/counter/auth/AuthAggregateBase.go" : {
+      "path" : "counter/counter/auth/AuthAggregateBase.go",
+      "date" : 1545822479000
+    },
+    "counter/counter/auth/AuthQueryBase.go" : {
+      "path" : "counter/counter/auth/AuthQueryBase.go",
+      "date" : 1545822479000
+    },
+    "counter/counter/auth/AuthHttpBase.go" : {
+      "path" : "counter/counter/auth/AuthHttpBase.go",
+      "date" : 1545822479000
+    },
+    "counter/counter/auth/AuthStateMachineBase.go" : {
+      "path" : "counter/counter/auth/AuthStateMachineBase.go",
+      "date" : 1545822479000
+    },
+    "counter/counter/shared/SharedApiBase.go" : {
+      "path" : "counter/counter/shared/SharedApiBase.go",
+      "date" : 1545822479000
+    },
+    "counter/counter/shared/SharedCommandsBase.go" : {
+      "path" : "counter/counter/shared/SharedCommandsBase.go",
+      "date" : 1545822479000
+    },
+    "counter/counter/shared/SharedEventsBase.go" : {
+      "path" : "counter/counter/shared/SharedEventsBase.go",
+      "date" : 1545822479000
+    },
+    "counter/counter/shared/SharedAggregateBase.go" : {
+      "path" : "counter/counter/shared/SharedAggregateBase.go",
+      "date" : 1545822479000
+    },
+    "counter/counter/shared/SharedQueryBase.go" : {
+      "path" : "counter/counter/shared/SharedQueryBase.go",
+      "date" : 1545822479000
+    },
+    "counter/counter/shared/SharedHttpBase.go" : {
+      "path" : "counter/counter/shared/SharedHttpBase.go",
+      "date" : 1545822479000
+    },
+    "counter/counter/shared/SharedStateMachineBase.go" : {
+      "path" : "counter/counter/shared/SharedStateMachineBase.go",
+      "date" : 1545822479000
+    }
+  }
+}
