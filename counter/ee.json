@@ -62,31 +62,35 @@
     },
     "counter/counter/src/main/go/src/ee/counter/CounterApiBase.go" : {
       "path" : "counter/counter/src/main/go/src/ee/counter/CounterApiBase.go",
-      "date" : 1546042469000
+      "date" : 1546208760000
     },
     "counter/counter/src/main/go/src/ee/counter/CounterCommandsBase.go" : {
       "path" : "counter/counter/src/main/go/src/ee/counter/CounterCommandsBase.go",
-      "date" : 1546042469000
+      "date" : 1546208761000
     },
     "counter/counter/src/main/go/src/ee/counter/CounterEventsBase.go" : {
       "path" : "counter/counter/src/main/go/src/ee/counter/CounterEventsBase.go",
-      "date" : 1546042469000
+      "date" : 1546208761000
     },
     "counter/counter/src/main/go/src/ee/counter/CounterAggregateBase.go" : {
       "path" : "counter/counter/src/main/go/src/ee/counter/CounterAggregateBase.go",
-      "date" : 1546042470000
+      "date" : 1546208761000
     },
     "counter/counter/src/main/go/src/ee/counter/CounterQueryBase.go" : {
       "path" : "counter/counter/src/main/go/src/ee/counter/CounterQueryBase.go",
-      "date" : 1546042470000
+      "date" : 1546208761000
     },
     "counter/counter/src/main/go/src/ee/counter/CounterHttpBase.go" : {
       "path" : "counter/counter/src/main/go/src/ee/counter/CounterHttpBase.go",
-      "date" : 1546042470000
+      "date" : 1546208761000
     },
     "counter/counter/src/main/go/src/ee/counter/CounterStateMachineBase.go" : {
       "path" : "counter/counter/src/main/go/src/ee/counter/CounterStateMachineBase.go",
-      "date" : 1546042470000
+      "date" : 1546208761000
+    },
+    "counter/counter/src-gen/main/swagger/ee/counter/Counter.yml" : {
+      "path" : "counter/counter/src-gen/main/swagger/ee/counter/Counter.yml",
+      "date" : 1546208761000
     }
   }
 }
